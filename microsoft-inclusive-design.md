@@ -1,4 +1,4 @@
-This is a text-only version of the [Microsoft Inclusive Design guide PDF](https://inclusive.microsoft.design/tools-and-activities/Inclusive101Guidebook.pdf). Parts of this version (for example, heading structure) have been modified to improve content accessibility and readability. 
+This is a text-only version of the [Microsoft Inclusive Design guide PDF](https://inclusive.microsoft.design/tools-and-activities/Inclusive101Guidebook.pdf). Parts of this version (for example, content hierarchy, heading structure) have been modified to improve accessibility and readability. 
 
 # Inclusive Microsoft Design
 
