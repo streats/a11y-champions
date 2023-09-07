@@ -13,13 +13,24 @@ Note: This is a very summarized version of the research paper "[Designing for Co
 - The study aims to reduce cognitive barriers and promote diversity in the OSS community.
 
 ## Related Work
-This section addresses challenges in newcomer onboarding to open-source software (OSS) projects, the lack of diversity and biases in OSS communities, and the impact of different cognitive styles on OSS contributions.
+- Previous research has extensively investigated the challenges faced by newcomers when contributing to Open Source Software (OSS) projects, identifying numerous barriers and obstacles.
 
-- **Newcomer Onboarding**: Previous research has identified barriers for newcomers in OSS, including unfriendly environments and slow responses. The study aims to enhance inclusivity on social coding platforms, focusing on accommodating various cognitive styles.
+- Toxic environments within OSS communities, characterized by unfriendly, unhelpful, or elitist behaviors among project members, have been a subject of study.
 
-- **Diversity/Bias in OSS**: Concerns about diversity, including gender, language, and location diversity, exist in OSS communities. The study aims to reduce bias in social coding platforms, making them more inclusive for users with diverse cognitive styles.
+- Research has delved into the response times and types of responses that newcomers receive, considering factors like gender and nationality.
 
-- **Cognitive Styles**: Research highlights varying cognitive styles and motivations among software developers, which can influence OSS contributions. The study proposes GitHub changes to support a broader range of newcomers with different cognitive styles.
+- Concerns regarding the lack of diversity in OSS communities have been raised, spanning gender, language, and location diversity. Studies have shown that diverse teams tend to be more productive, but underrepresented groups face difficulties integrating into OSS communities.
+
+- The prevalent meritocratic nature of OSS communities has been criticized for fostering imposter syndrome and discouraging participation from minorities, particularly women.
+
+- Observations in OSS contributions have revealed that men tend to dominate code authorship while undermining the social ties necessary for women's inclusion.
+
+- Studies have also highlighted the existence of distinct cognitive styles and motivations among developers, with women often displaying task-oriented tendencies and men being more motivated by the enjoyment of learning new technologies.
+
+- These cognitive style differences can significantly affect how individuals, especially women, contribute to OSS projects, particularly when project structures favor specific cognitive styles over others.
+
+- The study's primary goal is to address these issues by proposing modifications to GitHub to make it more inclusive and supportive of newcomers with diverse cognitive styles.
+
 
 ## Research method
 The study followed a three-step process:
