@@ -1,6 +1,8 @@
 Copyright note: This document is a text-based version of a PDF report, republished here for accessibility purposes only. All rights remain with the original creators. 
 
-Formatting note: This document includes minor formatting changes for clarity and accessibility. Please note that some data tables in this document are included as images which are not fully described. I hope to address this in due course. 
+Formatting note: This document includes minor formatting changes for clarity and accessibility. 
+
+Accessibility note: Please note that some data tables in this document are included as images which are not fully described. I hope to address this in due course. 
 
 A [summary of this report](https://github.com/streats/a11y-champions/blob/main/github-gender-inclusivity-bugs-summary.md) (generated with ChatGPT) covers the main points of the report. 
 
