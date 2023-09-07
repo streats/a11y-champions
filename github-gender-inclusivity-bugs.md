@@ -2,6 +2,8 @@ Copyright note: This document is a text-based version of a PDF report, republish
 
 Formatting note: This document includes minor formatting changes for clarity and accessibility. Please note that some data tables in this document are included as images which are not fully described. I hope to address this in due course. 
 
+A [summary of this report](https://github.com/streats/a11y-champions/blob/main/github-gender-inclusivity-bugs-summary.md) (generated with ChatGPT) covers the main points of the report. 
+
 # Designing for Cognitive Diversity: Improving the GitHub Experience for Newcomers 
 
 Italo Santos*, João Felipe Pimentel*, Igor Wiese†, Igor Steinmacher*, Anita Sarma‡ and Marco A. Gerosa* 
