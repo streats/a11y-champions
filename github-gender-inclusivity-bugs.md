@@ -1,19 +1,23 @@
-Note: This document is a text-based version of a PDF report, republished here for accessibility purposes only. All rights remain with the original creators. This document includes minor formatting changes for clarity and accessibility. 
+Copyright note: This document is a text-based version of a PDF report, republished here for accessibility purposes only. All rights remain with the original creators. 
+
+Formatting note: This document includes minor formatting changes for clarity and accessibility. Please note that some data tables in this document are included as images which are not fully described. I hope to address this in due course. 
 
 # Designing for Cognitive Diversity: Improving the GitHub Experience for Newcomers 
 
-Italo Santos∗, Joao Felipe Pimentel ˜∗, Igor Wiese†, Igor Steinmacher∗, Anita Sarma‡ and Marco A. Gerosa∗ ∗Northern Arizona University, Flagstaff, AZ, USA 
+Italo Santos*, João Felipe Pimentel*, Igor Wiese†, Igor Steinmacher*, Anita Sarma‡ and Marco A. Gerosa* 
 
-†Federal University of Technology, Campo Mourao, PR, Brazil 
-‡Oregon State University, Corvallis, OR, USA 
+*Northern Arizona University, Flagstaff, AZ, USA <br>
+†Federal University of Technology, Campo Mourao, PR, Brazil <br>
+‡Oregon State University, Corvallis, OR, USA <br>
 
-Email: italo santos@nau.edu, joao.pimentel@nau.edu, igor@utfpr.edu.br, igor.steinmacher@nau.edu, anita.sarma@oregonstate.edu, marco.gerosa@nau.edu 
+Email: italo_santos@nau.edu, joao.pimentel@nau.edu, igor@utfpr.edu.br, igor.steinmacher@nau.edu, anita.sarma@oregonstate.edu, marco.gerosa@nau.edu 
 
 ## Abstract
 Social coding platforms such as GitHub have become defacto environments for collaborative programming and open source. When these platforms do not support specific cognitive styles, they create barriers to programming for some populations. Research shows that the cognitive styles typically favored by women are often unsupported, creating barriers to entry for woman newcomers. In this paper, we use the GenderMag method to evaluate GitHub to find cognitive style-specific inclusivity bugs. We redesigned the “buggy” GitHub features through a web browser plugin, which we evaluated through a between-subjects experiment (n=75). Our results indicate that the changes to the interface improve users’ performance and self-efficacy, mainly for individuals with cognitive styles more common to women. Our results can inspire designers of social coding platforms and software engineering tools to produce more inclusive development environments. 
 
 ## General Abstract
 Diversity is an important aspect of society. One form of diversity is cognitive diversity—differences in cognitive styles, which helps generate a diversity of thoughts. Unfortunately, software tools often do not support different cognitive styles (e.g., learning styles), disproportionately impacting those whose styles are not supported. These individuals pay a cognitive “tax” each time they use the tools. In this work, we found “inclusivity bugs” in GitHub, a social coding platform. We then redesigned these buggy features and evaluated them with users. Our results show that the redesign makes it easier for the group of individuals whose cognitive styles were unsupported in the original design, with the percentage of completed tasks rising from 67% to 95% for this group. 
+
 keywords: open source, diversity and inclusion, human factors, cognitive styles, human-computer interaction. 
 
 ## I. Introduction
