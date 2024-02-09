@@ -3,7 +3,7 @@ Learning about accessibility.
 
 Here are some examples of things that should be caught by the Actions Markdown linter.
 
-An image with no alt text
+An image with no alt text:
 <img width="131" src="https://github.com/streats/a11y-champions/assets/12902836/d326e126-4900-42fc-a86b-44dc29f561cc">
 
 ### Skipped header
